@@ -1,0 +1,3 @@
+# Environment Post Processing
+org.springframework.boot.env.EnvironmentPostProcessor=\
+io.pivotal.spring.boot.cloud.ExampleApplication.ExampleEnvironmentPostProcessor
